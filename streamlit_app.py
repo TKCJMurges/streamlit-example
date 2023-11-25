@@ -1,3 +1,4 @@
+pip install dash
 # Importing the necessary files
 import dash
 from dash import dcc, html
